@@ -9,8 +9,10 @@
 [블록체인](https://velog.io/@songe/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
 ***
 ### 2022-10-31
-[CSS3](https://velog.io/@songe/CSS3)
-
+[CSS3 셀렉터](https://velog.io/@songe/CSS3)
+***
+### 2022-11-01
+[CSS3 프로퍼티 값의 단위](https://velog.io/@songe/CSS3)
 
 
 
