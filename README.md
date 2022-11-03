@@ -16,7 +16,6 @@
 ***
 ### 2022-11-02 (day 6)
 [git&github 1](https://velog.io/@songe/git-github)
-
-
+### 20
 
 
