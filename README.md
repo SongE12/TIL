@@ -16,7 +16,7 @@
 ***
 ### 2022-11-02 (day 6)
 [git&github 1](https://velog.io/@songe/git-github)
-
+***
 ### 2022-11-07 (day 7)
 [11월 PLAN](https://velog.io/@songe/11%EC%9B%94-PLAN)
 
