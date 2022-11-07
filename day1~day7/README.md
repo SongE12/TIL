@@ -19,6 +19,7 @@
 ***
 ### 2022-11-07 (day 7)
 [11월 PLAN](https://velog.io/@songe/11%EC%9B%94-PLAN)
+
 [CSS3 박스 모델 ~ 폰트와 텍스트](https://velog.io/@songe/CSS3)
 
 ### 1주차 느낀점
